@@ -3,6 +3,10 @@ author: Matthew Petty
 
 Here's a free replacement icon for those who are bored of the regular Taskpaper 3.0 icon. You know, since it's been out a few hours already.
 
+image:https://raw.githubusercontent.com/lodestone/taskpaper-replacement-icon/master/Taskpaper-Checkmark-Icon.png[width="64", height="64"]
+
+image:https://raw.githubusercontent.com/lodestone/taskpaper-replacement-icon/master/Taskpaper-Checkmark-Icon.png[width="256", height="256"]
+
 image::https://raw.githubusercontent.com/lodestone/taskpaper-replacement-icon/master/Taskpaper-Checkmark-Icon.png[Taskpaper Icon]
 
 (C) Matthew Petty link:https://twitter.com/lodestone[@lodestone]
